@@ -45,7 +45,7 @@ function MetricCard({
     indigo: "text-indigo-500",
     blue: "text-blue-500",
     green: "text-green-500",
-  }
+  };
 
   return (
     <Card className="bg-slate-800/70 border-gray-700">
